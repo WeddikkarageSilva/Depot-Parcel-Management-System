@@ -1,0 +1,3 @@
+
+Customer QWE collected Parcel P02. Fee: 0.7
+Customer ABC collected Parcel P01. Fee: 0.9
